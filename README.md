@@ -42,7 +42,11 @@ Open index.html file in browser
 
 
 ##Credit to:
+Run
+```shell
+fixer.io
 ```
-[fixerIo]: http://fixer.io/
+Run
+```shell
+lite-server
 ```
-[liteServer]: https://github.com/johnpapa/lite-server
