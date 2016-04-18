@@ -42,11 +42,9 @@ Open index.html file in browser
 
 
 ##Credit to:
-Run
 ```shell
 fixer.io
 ```
-Run
 ```shell
 lite-server
 ```
