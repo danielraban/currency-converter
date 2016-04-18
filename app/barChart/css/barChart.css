@@ -1,0 +1,36 @@
+.barChart text {
+    font: 10px sans-serif;
+}
+
+.barChart .axis path,
+.barChart .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+
+/*tooltip*/
+.chartTooltipContentDiv{
+    background: #fff;
+    -webkit-box-shadow: 0px 0px 25px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 25px -4px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 25px -4px rgba(0,0,0,0.75);
+    font-size:14px;
+}
+.chartTooltipContentDiv table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: solid 1px #ccc;
+}
+.chartTooltipContentDiv table th{
+    text-align: left;
+    background: #ccc;
+    padding: 3px 6px;
+
+}
+.chartTooltipContentDiv table td{
+    padding: 4px 4px 1px 6px;
+    border-left: 1px dotted #999;
+    border-bottom: 1px dotted #999;
+}
