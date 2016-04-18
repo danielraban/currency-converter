@@ -26,7 +26,10 @@ Run
 ```shell
 npm start
 ```
+
+```shell
 Starts application using [lite-server][liteServer] (a static web server for development)
+```
 
 ## How to test?
 
